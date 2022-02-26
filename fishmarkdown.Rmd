@@ -1,0 +1,13 @@
+i am trying rmarkdown for first time
+
+# now try headers
+
+## and some subheaders
+
+This is a list
+
+ * item 1
+ * item 2
+ * item 3
+ 
+ this is where I am getting this: from this [website](https://rmarkdown.rstudio.com/articles_intro.html)
